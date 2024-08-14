@@ -88,7 +88,6 @@ DOMAIN-SUFFIX,apt.releases.hashicorp.com
 DOMAIN-SUFFIX,aqicn.org
 DOMAIN-SUFFIX,arc.intel.com
 DOMAIN-SUFFIX,artifacts.elastic.co
-DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,auth.grazie.ai
 DOMAIN-SUFFIX,auth.openai.com
 DOMAIN-SUFFIX,auth0.openai.com
@@ -222,7 +221,6 @@ DOMAIN-SUFFIX,macpaw.com
 DOMAIN-SUFFIX,macvendors.com
 DOMAIN-SUFFIX,mail.protonmail.com
 DOMAIN-SUFFIX,malwarebytes.com
-DOMAIN-SUFFIX,marketplace.atlassian.com
 DOMAIN-SUFFIX,master.qt.io
 DOMAIN-SUFFIX,mattermost.com
 DOMAIN-SUFFIX,mdza.io
@@ -238,7 +236,6 @@ DOMAIN-SUFFIX,mobile.events.data.microsoft.com
 DOMAIN-SUFFIX,monster.ie
 DOMAIN-SUFFIX,mouser.com
 DOMAIN-SUFFIX,mrakopedia.net
-DOMAIN-SUFFIX,my.atlassian.com
 DOMAIN-SUFFIX,myworld-portal.leica-geosystems.com
 DOMAIN-SUFFIX,nasvsehtoshnit.ru
 DOMAIN-SUFFIX,navalny.com
